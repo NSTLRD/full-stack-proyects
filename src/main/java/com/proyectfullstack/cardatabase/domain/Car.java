@@ -1,6 +1,4 @@
 package com.proyectfullstack.cardatabase.domain;
 
-public class CarOwner {
+public class Car {
 }
-
-//COMEN
